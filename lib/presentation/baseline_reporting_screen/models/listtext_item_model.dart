@@ -1,0 +1,3 @@
+class ListtextItemModel {
+  String? id = "";
+}
