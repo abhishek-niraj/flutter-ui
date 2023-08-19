@@ -1,0 +1,3 @@
+class ListsyncItemModel {
+  String? id = "";
+}
